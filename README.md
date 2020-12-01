@@ -1,5 +1,6 @@
 # weatherapp
 
+npm install  
 add .env file  
 cd ios & pod install  
 cd .. & npx react-native link  
